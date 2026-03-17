@@ -1,0 +1,11 @@
+{
+  "id": "rust-egui-bevy-postgres-enterprise",
+  "name": "Rust egui + Bevy + PostgreSQL Enterprise",
+  "description": "Trellis spec template for Rust desktop applications with egui, Bevy renderer, and PostgreSQL.",
+  "entrypoints": [
+    "spec/README.md",
+    "spec/frontend/index.md",
+    "spec/backend/index.md",
+    "spec/guides/index.md"
+  ]
+}

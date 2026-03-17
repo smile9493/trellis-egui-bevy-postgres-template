@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "specs": [
+    {
+      "id": "rust-egui-bevy-postgres-enterprise",
+      "name": "Rust egui + Bevy + PostgreSQL Enterprise",
+      "description": "Enterprise-oriented Trellis specs template for a Rust desktop application using egui, Bevy, and PostgreSQL.",
+      "path": "marketplace/specs/rust-egui-bevy-postgres-enterprise",
+      "tags": [
+        "rust",
+        "egui",
+        "bevy",
+        "postgresql",
+        "desktop",
+        "windows"
+      ],
+      "author": "OpenAI",
+      "version": "0.1.0"
+    }
+  ]
+}
